@@ -9,7 +9,11 @@ def first_challenge
          :name => "Lady Montague", 
          :age => "54"
        }, 
-       :hero => {}, 
+       :hero => {
+         :name => "Romeo", 
+         :age => "15", 
+         :alive => "alive"
+       }, 
        :hero_friends => [ ]
      },
      :capulet => {
